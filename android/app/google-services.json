@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764075172788",
+    "project_id": "learningapp-3d07b",
+    "storage_bucket": "learningapp-3d07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764075172788:android:c56b7234c0c7589f74c8e1",
+        "android_client_info": {
+          "package_name": "com.example.challenge_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6m7CfWI_mDfLotAgxeHdd_yc9OoKG3Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
